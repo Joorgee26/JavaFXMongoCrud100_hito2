@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5184c21-cba4-4425-82a2-14d046ca119e" name="Changes" comment="capa visual mostar en Listview">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/empresa/javafxmongocrud100/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/empresa/javafxmongocrud100/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +104,7 @@
       <updated>1715857474975</updated>
       <workItem from="1715857476065" duration="2035000" />
       <workItem from="1715859805897" duration="80000" />
-      <workItem from="1715859898673" duration="2886000" />
+      <workItem from="1715859898673" duration="3205000" />
     </task>
     <task id="LOCAL-00001" summary="modificar propiedades de controles">
       <option name="closed" value="true" />
@@ -118,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715858363803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="capa visual mostar en Listview">
+      <option name="closed" value="true" />
+      <created>1715863591506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715863591506</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
