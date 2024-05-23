@@ -8,9 +8,22 @@
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
-   <ListView fx:id="lv_datos" prefHeight="200.0" prefWidth="200.0" />
-   <Button mnemonicParsing="false" onAction="#mostrar" text="Mostrar datos" />
+    <TextField fx:id="nombreField" promptText="Nombre" />
+    <TextField fx:id="ciudadField" promptText="Ciudad" />
+    <TextField fx:id="facturacionField" promptText="Facturación" />
+    <Button mnemonicParsing="false" onAction="#mostrar" prefHeight="25.0" prefWidth="152.0" text="Mostrar datos" />
+    <Button mnemonicParsing="false" onAction="#crear" prefHeight="25.0" prefWidth="152.0" text="Crear" />
+    <Button mnemonicParsing="false" onAction="#actualizar" prefHeight="25.0" prefWidth="152.0" text="Actualizar" />
+    <Button mnemonicParsing="false" onAction="#eliminar" prefHeight="25.0" prefWidth="151.0" text="Eliminar" />
+
+    <TableView fx:id="tablaDatos" prefHeight="114.0" prefWidth="563.0">
+        <columns>
+            <TableColumn fx:id="columnaNombre" text="Nombre" />
+            <TableColumn fx:id="columnaCiudad" text="Ciudad" />
+            <TableColumn fx:id="columnaFacturacion" text="Facturación" />
+        </columns>
+    </TableView>
 
     <Label fx:id="welcomeText" />
-    <Button onAction="#onHelloButtonClick" text="Probar conexion con mongo!" />
+    <Button onAction="#onHelloButtonClick" text="Probar conexión con mongo!" />
 </VBox>

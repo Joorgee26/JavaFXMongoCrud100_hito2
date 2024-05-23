@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5184c21-cba4-4425-82a2-14d046ca119e" name="Changes" comment="capa visual mostar en Listview">
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/empresa/javafxmongocrud100/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/empresa/javafxmongocrud100/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +64,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,7 +72,7 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
+    "project.structure.side.proportion": "0.3091954",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
@@ -105,6 +116,10 @@
       <workItem from="1715857476065" duration="2035000" />
       <workItem from="1715859805897" duration="80000" />
       <workItem from="1715859898673" duration="3205000" />
+      <workItem from="1715935819881" duration="234000" />
+      <workItem from="1716362420184" duration="8127000" />
+      <workItem from="1716378366174" duration="284000" />
+      <workItem from="1716447887394" duration="13969000" />
     </task>
     <task id="LOCAL-00001" summary="modificar propiedades de controles">
       <option name="closed" value="true" />
@@ -122,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715863591506</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="capa visual mostar en Listview">
+      <option name="closed" value="true" />
+      <created>1715935851428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715935851428</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
